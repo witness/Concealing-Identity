@@ -2,28 +2,29 @@
 
 ``` [IMAGE witness logo] ```
 
-# Conducting Interviews: Concealing Identity Ocultando identidades em
-# entrevistas
+# Conducting Interviews: Concealing Identity 
+# Ocultando identidades em entrevistas
 ###A WITNESS Tip Sheet
 ### Dicas da WITNESS
 ### 
-### Filming for human rights can be dangerous: Be safe. Be ethical. Be
-### effective. Filmar para defender os direitos humanos pode ser
-### perigoso: filme com segurança, ética e efetividade.
+### Filming for human rights can be dangerous: Be safe. Be ethical. Be effective. 
+### Filmar para defender os direitos humanos pode ser perigoso: filme com segurança, ética e efetividade.
 ### 
-``` End of Header ``` ``` Fim do cabeçalho ```
+``` End of Header ``` 
+``` Fim do cabeçalho ```
 
-``` Footer for Document ``` ```Nota de rodapé para documento```
+``` Footer for Document ``` 
+```Nota de rodapé para documento```
 
-Conducting Interviews: Concealing Identity V 1.0 Ocultando identidades
-em entrevistas V 1.0
+Conducting Interviews: Concealing Identity V 1.0 
+Ocultando identidades em entrevistas V 1.0
 
 witness.org @witnessorg facebook.com/witness
 
 ```[IMAGE witness logo]```
 
-``` End Footer for Document ``` ```Fim da nota de rodapé para documento
-```
+``` End Footer for Document ``` 
+```Fim da nota de rodapé para documento```
 
 If you need to protect the anonymity of people you are interviewing you
 can do so with editing software or while filming. Using an editing
@@ -50,9 +51,9 @@ sua aparência (como cicatrizes, tatuagens, roupas características), por
 pontos de referência geográfica ao fundo das imagens, e também por
 detalhes no áudio como sotaques ou vozes distintas.
 
-### IF SECURITY IS A MAJOR CONCERN, REMEMBER TO SE A SEGURANÇA FOR UMA
-### GRANDE PREOCUPAÇÃO, LEMBRE-SE DE:
-### 
+### IF SECURITY IS A MAJOR CONCERN, REMEMBER TO 
+### SE A SEGURANÇA FOR UMA GRANDE PREOCUPAÇÃO, LEMBRE-SE DE:
+
 * Ask the interviewee not to refer to places, locations, or people that
 could reveal their identity. 
 * Pedir para o entrevistado não mencionarlugares, locais ou nomes de pessoas que poderiam ajudar alguém a
@@ -73,14 +74,14 @@ subir o vídeo de forma anônima.
 anotações, registros e cartões de memória em locais seguros.  Tenha
 cópias em outros lugares ou com pessoas de confiança se necessário.
 
-## CONCEALING IDENTITY TECHNIQUES WHILE FILMING TÉCNICAS PARA OCULTAR
-## IDENTIDADES NA HORA DA FILMAGEM
-## 
+## CONCEALING IDENTITY TECHNIQUES WHILE FILMING 
+## TÉCNICAS PARA OCULTAR IDENTIDADES NA HORA DA FILMAGEM
+
 There are several options for concealing identity while recording. Film
 the interviewee wearing a non- descript article of clothing that covers
 much of their face, focus only on their hands, or simply record out of
 focus. If you are concerned that your video might be seized before you
-can upload it ‚Äì look into using an anonymizing application on your
+can upload it, look into using an anonymizing application on your
 mobile device, such as the InformaCam
 [http://bit.ly/informacam](http://bit.ly/informacam). 
 
@@ -136,9 +137,9 @@ deixe a entrada de luz um pouco mais escura do que aparenta ser
 necessário. Se possível, gire a tela do LCD da câmera que seu
 entrevistado possa ver e aprovar a imagem.
 
-### B. CREATING A BLUR FOR ADDED SECURITY B. DISTORCENDO IMAGENS PARA
-### MAIOR SEGURANÇA
-### 
+### B. CREATING A BLUR FOR ADDED SECURITY 
+### B. DISTORCENDO IMAGENS PARA MAIOR SEGURANÇA
+ 
 For an additionally secure image and to avoid revealing your location,
 you can use your camera‚Äôs manual focus to blur the image. Adjust the
 focus setting so the interviewee‚Äôs silhouette becomes slightly out of
@@ -159,11 +160,10 @@ que a voz permanecerá reconhecível.
 
 ``` [IMAGE BlurFocus.ai] ```
 
-## CONCEALING IDENTITY during the edit OCULTANDO IDENTIDADES no processo
-## da edição
-## 
-### A. EDITING SOFTWARE 
+## CONCEALING IDENTITY during the edit 
+## OCULTANDO IDENTIDADES no processo da edição
 
+### A. EDITING SOFTWARE 
 ### A. PROGRAMAS DE EDIÇÃO
 ### 
 ``` [IMAGE Pixelate.ai | BlurFace.ai] ```
@@ -181,9 +181,8 @@ quaisquer nomes ou lugares mencionados na entrevista que poderiam gerar
 riscos. Ainda assim, lembre-se que seu material bruto podem comprometer
 tanto você como seus entrevistados se confiscado.
 
-### B. YOUTUBE FACE BLURRING TOOL B. OPÇÃO DO YOUTUBE PARA DISTORÇÃO DE
-### ROSTOS
-### 
+### B. YOUTUBE FACE BLURRING TOOL 
+### B. OPÇÃO DO YOUTUBE PARA DISTORÇÃO DE ROSTOS
 YouTube offers a tool that allows you to obscure the identity of faces
 in the videos you upload. After uploading your video to YouTube, set the
 video to private, select the Video Enhancements tool and then go to
